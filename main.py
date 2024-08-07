@@ -10,20 +10,21 @@ import requests
 # URLs
 urls = {
     'Antifilter community edition': "https://community.antifilter.download/list/domains.lst",
-    'Youtube': "https://raw.githubusercontent.com/Ground-Zerro/DomainMapper/main/platforms/dns-youtube.txt",
-    'Facebook': "https://raw.githubusercontent.com/Ground-Zerro/DomainMapper/main/platforms/dns-facebook.txt",
-    'Openai': "https://raw.githubusercontent.com/Ground-Zerro/DomainMapper/main/platforms/dns-openai.txt",
-    'Tik-Tok': "https://raw.githubusercontent.com/Ground-Zerro/DomainMapper/main/platforms/dns-tiktok.txt",
-    'Instagram': "https://raw.githubusercontent.com/Ground-Zerro/DomainMapper/main/platforms/dns-instagram.txt",
-    'Twitter': "https://raw.githubusercontent.com/Ground-Zerro/DomainMapper/main/platforms/dns-twitter.txt",
-    'Netflix': "https://raw.githubusercontent.com/Ground-Zerro/DomainMapper/main/platforms/dns-netflix.txt",
-    'Bing': "https://raw.githubusercontent.com/Ground-Zerro/DomainMapper/main/platforms/dns-bing.txt",
-    'Adobe': "https://raw.githubusercontent.com/Ground-Zerro/DomainMapper/main/platforms/dns-adobe.txt",
-    'Apple': "https://raw.githubusercontent.com/Ground-Zerro/DomainMapper/main/platforms/dns-apple.txt",
-    'Google': "https://raw.githubusercontent.com/Ground-Zerro/DomainMapper/main/platforms/dns-google.txt",
-    'Tor-Truckers': "https://raw.githubusercontent.com/Ground-Zerro/DomainMapper/main/platforms/dns-ttruckers.txt",
-    'Search-engines': "https://raw.githubusercontent.com/Ground-Zerro/DomainMapper/main/platforms/dns-search-engines"
+    'Youtube': "https://github.com/Syfleshka/DomainMapper/blob/main/platforms/dns-youtube.txt",
+    'Facebook': "https://github.com/Syfleshka/DomainMapper/blob/main/platforms/dns-facebook.txt",
+    'Openai': "https://github.com/Syfleshka/DomainMapper/blob/main/platforms/dns-openai.txt",
+    'Tik-Tok': "https://github.com/Syfleshka/DomainMapper/blob/main/platforms/dns-tiktok.txt",
+    'Instagram': "https://github.com/Syfleshka/DomainMapper/blob/main/platforms/dns-instagram.txt",
+    'Twitter': "https://github.com/Syfleshka/DomainMapper/blob/main/platforms/dns-twitter.txt",
+    'Netflix': "https://github.com/Syfleshka/DomainMapper/blob/main/platforms/dns-netflix.txt",
+    'Bing': "https://github.com/Syfleshka/DomainMapper/blob/main/platforms/dns-bing.txt",
+    'Adobe': "https://github.com/Syfleshka/DomainMapper/blob/main/platforms/dns-adobe.txt",
+    'Apple': "https://github.com/Syfleshka/DomainMapper/blob/main/platforms/dns-apple.txt",
+    'Google': "https://github.com/Syfleshka/DomainMapper/blob/main/platforms/dns-google.txt",
+    'Tor-Truckers': "https://github.com/Syfleshka/DomainMapper/blob/main/platforms/dns-ttruckers.txt",
+    'Search-engines': "https://github.com/Syfleshka/DomainMapper/blob/main/platforms/dns-search-engines"
                       ".txt",
+    'Copilot': "https://github.com/Syfleshka/DomainMapper/blob/main/platforms/dns-copilot.txt"
 }
 
 

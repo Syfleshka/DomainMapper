@@ -1,0 +1,7 @@
+copilot.microsoft.com
+msn.com
+login.live.com
+challenges.cloudflare.com
+login.microsoftonline.com
+bing.com
+bing.net
